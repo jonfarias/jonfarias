@@ -6,7 +6,7 @@
 
 My name is Jonathan Farias and I'm a DevOps Engineer. I'm from Brazil, living in Campina Grande and currently working at APIKI. 
 
-You can find me at .
+You can find me at [![LinkedIn][1.2]][1] .
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -36,15 +36,9 @@ You can find me at .
 
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
 <!-- icons without padding -->
 
 [1.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
