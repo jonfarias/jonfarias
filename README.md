@@ -7,10 +7,6 @@ I'm a DevOps Engineer, living in Brazil and currently working at [APIKI Wordpres
 
 <img align="center" src="https://raw.githubusercontent.com/jonfarias/jonfarias/master/images/cat.gif" width="120px" height="120px" />
 
-## Where you can find me 
-
-[![LinkedIn][1.2]][1]
-
 ## 🔧 Technologies & Tools
 <a href="https://github.com/jonfarias/jonfarias">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
@@ -39,7 +35,10 @@ I'm a DevOps Engineer, living in Brazil and currently working at [APIKI Wordpres
 <a href="https://github.com/jonfarias/jonfarias">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfarias&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
 </a>
- 
+
+## Where you can find me 
+
+[![LinkedIn][1.2]][1]
 
 <!-- links to social media icons -->
 
