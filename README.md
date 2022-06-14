@@ -30,10 +30,13 @@ I'm a DevOps Engineer, living in Brazil and currently working at [APIKI Wordpres
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jonfarias/jonfarias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonfarias&hide=java,html,php,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfarias&show_icons=true&line_height=27&count_private=true&layout=compact&theme=github_dark" alt="Jonathan's GitHub Stats" />
 </a>
+
+## Most Used Languages
+
 <a href="https://github.com/jonfarias/jonfarias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonfarias&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonfarias&hide=java,html,php,tex,smarty&langs_count=6&layout=compact&theme=github_dark" />
 </a>
 
 ## Where you can find me 
