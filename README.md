@@ -36,7 +36,7 @@ I'm a DevOps Engineer, living in Brazil and currently working at [APIKI Wordpres
 ## Most Used Languages
 
 <a href="https://github.com/jonfarias/jonfarias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonfarias&hide=java,html,php,tex,smarty&langs_count=6&layout=compact&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonfarias&hide=java,%20javascript,%20scss,html,php,css,tex,smarty&langs_count=6&layout=compact&theme=github_dark" />
 </a>
 
 ## Where you can find me 
