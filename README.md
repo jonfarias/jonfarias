@@ -3,7 +3,7 @@
 <!-- Your title -->
 ## Hi, I'm Jonathan Farias. <img src="https://raw.githubusercontent.com/jonfarias/jonfarias/master/images/wave.gif" width="30px" height="30px" />
 
-I'm a DevOps Engineer, living in Brazil and currently working at [APIKI Wordpress](https://apiki.com/). 
+I'm a DevOps Engineer, living in Brazil and currently working at [Grupo Boticário](https://www.grupoboticario.com.br/). 
 
 <img align="center" src="https://raw.githubusercontent.com/jonfarias/jonfarias/master/images/cat.gif" width="120px" height="120px" />
 
