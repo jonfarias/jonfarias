@@ -5,7 +5,7 @@
 
 I'm a DevOps Engineer, living in Brazil and currently working at [Grupo Boticário](https://www.grupoboticario.com.br/). 
 
-<img align="center" src="https://raw.githubusercontent.com/jonfarias/jonfarias/master/images/cat.gif" width="120px" height="120px" />
+<img align="center" src="https://raw.githubusercontent.com/jonfarias/jonfarias/master/images/cat.gif" width="140px" height="140px" />
 
 ## 🔧 Technologies & Tools
 
